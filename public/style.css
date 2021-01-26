@@ -1,0 +1,49 @@
+h1{
+    margin-left: 39%;
+}
+
+.Calc{
+    margin-left: 35%;
+    background-color: burlywood;
+    width: 420px;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+#screen{
+    border-radius: 10px;
+    margin: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 94%;
+    height: 60px;
+    font-size: 25px;
+}
+
+.btns{
+    margin: 5px;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 90px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: lightgrey;
+    border-radius: 8px;
+    border-color: rgb(149, 142, 245);
+    box-shadow:  lightskyblue ;
+
+}
+
+button:hover{
+    background-color: lightpink;
+    box-shadow: 1px 1px 10px;
+    font-size: 23px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+
+button:focus{
+    border-color: white;
+    box-shadow: 0px 0px 0px;
+}
